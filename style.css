@@ -1,0 +1,121 @@
+body{
+   background:
+   Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+   Linear-gradient(127deg, black, black 70.71%),
+   
+   Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+background-repeat: no-repeat;
+
+}
+
+
+li{
+   position: relative;
+   float: center;
+   font-size: 45px;
+   margin-left: 45px;
+   margin-right: 45px;
+   text-align: center;
+
+   
+   
+}
+li{
+   display: inline;
+}
+
+
+img{
+   height: 100px;
+   width: 150px;
+   position: relative;
+   float: left;
+   border: 50px;
+
+}
+h1{
+   color: black;
+   position: relative;
+  /* right: 50%;
+   left: 50%;*/
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: aliceblue;
+   text-decoration: underline;
+   font-size: 150px;
+}
+p.home1{
+   color: black;
+   font-size: 300%;
+   color: aliceblue;
+}
+img.icone1{
+  display: flex;
+  flex-wrap: row wrap;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+img.icone1{
+   width: 500px;
+   height: 250px;
+   margin: 20px;
+}
+
+a{
+   text-decoration: none;
+}
+div.div1{
+   position: relative;
+   text-align: center;
+   color: aliceblue;
+   font-size: 150%;
+}
+div.angers{
+   position: relative;
+   text-align: center;
+   color: aliceblue;
+   font-size: 150%;
+}
+a:hover{
+color: white;
+}
+a{
+   color: red;
+}
+h1{
+   background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png");
+    height: 500px;
+   width: 100%; 
+    background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   margin-bottom: 87px;
+   box-shadow: 0 3px 2px rgba(0, 0, 0, .5); 
+    box-sizing: border-box;
+}
+   
+.icone2{
+   display: flex;
+   justify-content: space-around;
+
+}
+.icone2 img {
+   width:20%;
+   height: 170px;
+}
+iframe{
+   margin-bottom: 250px;
+   border-bottom: 20px;
+}
+hr{
+   border-bottom: 
+}
+.div3{
+   position: relative;
+   text-align: center;
+   color: aliceblue;
+   font-size: 150%;
+   margin-bottom: 10%;
+}
